@@ -16,4 +16,4 @@ yet to be described!
 
 ## Github link
 
-https://github.com/manoper93/PUFA
+[PUFA](https://github.com/manoper93/PUFA)
